@@ -1,0 +1,34 @@
+.upper__right {
+    position: absolute;
+    right: 1%;
+    font-size:small;
+}
+
+.sign-in {
+    margin-right: 20px;
+    font-size:20px;
+}
+
+.get-started {
+    border:solid black 2px;
+    padding:3px;
+
+    font-size:20px;
+}
+
+.upper__left{
+    height:40px;
+    width:40px;
+}
+
+.nav__lower{
+position:relative;
+margin-top:30px;
+}
+
+.nav__lower>a{
+font-size: 12px;
+/* margin:auto; */
+margin:65px;
+
+}
